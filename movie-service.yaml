@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: test
+  application:
+    name: movie-service
+server:
+  port: 8090
